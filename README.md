@@ -1,4 +1,4 @@
 # My-Project
-My My mini project 
+Mini project 
 <br>
 Author-Amit Jeve
